@@ -32,6 +32,8 @@ docker-compose up --build
 - Main application: http://localhost
 - API documentation: http://localhost/docs
 - Health check: http://localhost/health
+- Test check redis: http://localhost/test/redis
+- Test check postgreSql: http://localhost/test/postgres
 
 ## Project Structure
 
