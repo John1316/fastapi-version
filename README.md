@@ -60,6 +60,11 @@ The following environment variables are used in the application:
 - `POSTGRES_PASSWORD`: PostgreSQL password
 - `POSTGRES_DB`: PostgreSQL database name
 
+## Refrences
+- `dockerfile fastapi`: https://medium.com/@alidu143/containerizing-fastapi-app-with-docker-a-comprehensive-guide-416521b2457c
+- `fastapi deployement`: https://fastapi.tiangolo.com/deployment/docker/#recap
+- `nginx configuration`: https://www.plesk.com/blog/various/nginx-configuration-guide/
+
 ## Development
 
 To run the application in development mode:
